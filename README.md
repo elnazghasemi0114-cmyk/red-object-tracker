@@ -2,6 +2,8 @@
 
 A real-time computer vision project built with Python, OpenCV, and NumPy.
 
+![Red Object Tracker Demo](demo.png)
+
 ## Features
 
 - Real-time red object detection using HSV color segmentation
