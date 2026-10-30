@@ -25,7 +25,7 @@ A real-time computer vision project built with Python, OpenCV, and NumPy.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/elnazghasemi0114-cmyk/red-object-tracker.git
 cd red-object-tracker
 ```
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Run the tracker:
 
 ```bash
-python red_object_tracker.py
+python red_object_tracking.py
 ```
 
 Press `q` to close the camera window.
