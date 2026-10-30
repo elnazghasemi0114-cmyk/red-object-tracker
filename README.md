@@ -25,7 +25,7 @@ A real-time computer vision project built with Python, OpenCV, and NumPy.
 Clone the repository:
 
 ```bash
-git clone https://github.com/elnazghasemi0114-cmyk/red-object-tracker.git
+git clone https://github.com/elnazbuilds/red-object-tracker.git
 cd red-object-tracker
 ```
 
